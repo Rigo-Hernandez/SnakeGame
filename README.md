@@ -1,7 +1,7 @@
 # SnakeGame
 Snake game built using Javascipt and HTML
 
-#Installation
+# Installation
 Run with live server to run SnakeGame
 
 
