@@ -9,6 +9,7 @@ Run with live server to run SnakeGame
 Open HTML file and right click on the editor on Open with Live Server.
 ```
 
+
 ## Usage
 
 ```Javascript 
